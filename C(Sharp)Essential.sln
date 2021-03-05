@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeCalculator", "AgeCalcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{E2C66AC7-BFDF-457B-B2DB-C83C7FE77F0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box", "Box\Box.csproj", "{1E46561A-F2AC-457D-9403-1CFDAFFF9B8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E2C66AC7-BFDF-457B-B2DB-C83C7FE77F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2C66AC7-BFDF-457B-B2DB-C83C7FE77F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2C66AC7-BFDF-457B-B2DB-C83C7FE77F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E46561A-F2AC-457D-9403-1CFDAFFF9B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E46561A-F2AC-457D-9403-1CFDAFFF9B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E46561A-F2AC-457D-9403-1CFDAFFF9B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E46561A-F2AC-457D-9403-1CFDAFFF9B8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
