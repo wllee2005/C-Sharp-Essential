@@ -32,7 +32,7 @@ namespace HelloWorld2
             }
             else if (name2 == "William")
             {
-                Console.WriteLine("Your name is William");
+                Console.WriteLine("Your name is William");// to print this earlier 2 if made for flow thru
             }
         }
     }

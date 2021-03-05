@@ -11,7 +11,8 @@ namespace AgeCalculator
             Console.WriteLine("Please enter your Age: ");
             string age = Console.ReadLine();
             
-            Console.WriteLine($"Your Name is {name} and Age is : {age} ");
+            Console.WriteLine($"Hi {name}! Your age is : {age}.");
+            Console.WriteLine($"Your age next year is : {int.Parse(age) + 1}.");
         }
     }
 }

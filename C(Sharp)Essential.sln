@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{1A2754BE-3982-4F14-8E58-CA46571E1E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World", "Hello World\Hello World.csproj", "{1A2754BE-3982-4F14-8E58-CA46571E1E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld2", "HelloWorld2\HelloWorld2.csproj", "{F11CE349-D923-4301-9D7C-5E03C8A31F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator", "AgeCalculator\AgeCalculator.csproj", "{75628581-7F22-4019-8362-256EA2CC797B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{1A2754BE-3982-4F14-8E58-CA46571E1E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A2754BE-3982-4F14-8E58-CA46571E1E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A2754BE-3982-4F14-8E58-CA46571E1E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11CE349-D923-4301-9D7C-5E03C8A31F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11CE349-D923-4301-9D7C-5E03C8A31F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11CE349-D923-4301-9D7C-5E03C8A31F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11CE349-D923-4301-9D7C-5E03C8A31F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75628581-7F22-4019-8362-256EA2CC797B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75628581-7F22-4019-8362-256EA2CC797B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75628581-7F22-4019-8362-256EA2CC797B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75628581-7F22-4019-8362-256EA2CC797B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
